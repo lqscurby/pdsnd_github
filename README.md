@@ -1,10 +1,10 @@
 Date Created: April 7, 2019
 
-Project Title: Github Project3 US Bikeshare
+Project Title: Explore US Bikeshare Data
 
-Description: To improve documentation, have other members of team to contribute to documentation branch, refactor code, and merge branches.
+Description: Explore US Bikeshare project is written with Python code to import US bike share data and to answer interesting questions about it by computing descriptive statistics. This is also written with script that takes in raw input to create an interactive experience in the terminal to present these statistics.
 
-Files used: chicago.csv, new_york_city.csv, washington.csv 
+Files used: chicago.csv, new_york_city.csv, washington.csv
 
 ### Credits
 It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
