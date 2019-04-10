@@ -243,7 +243,7 @@ def raw_data(df):
     print("\nThis took %s seconds." % (time.time() - start_time))
     print('-'*40)
 
-        
+
 
 def main():
 
@@ -262,6 +262,7 @@ def main():
         if restart.lower() != 'yes':
             break
 
+    print ('\nThank you for exploring US Bikeshare Data\n')
 
 if __name__ == "__main__":
         city = ""
